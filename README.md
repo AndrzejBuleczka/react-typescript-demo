@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Tutorial on Typescript use in React by [Codeevolution](https://youtu.be/TiSGujM22OI)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
